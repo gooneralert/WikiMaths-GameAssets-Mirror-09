@@ -1,0 +1,80 @@
+{
+  "slug": "kindergarten-3",
+  "title": "Kindergarten 3",
+  "type": "HTML",
+  "developer": "Con Man Games",
+  "description": "Kindergarten 3 is the long awaited threequel to the Kindergarten series! Explore a new school with old and new friends...and new ways to get ruthlessly murdered.",
+  "tags": [
+    "Dark",
+    "Puzzle",
+    "Comedy",
+    "Story Rich",
+    "Pixel Graphics"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "70a13019-78c4-46e9-a321-86d751c5228f",
+  "sourceVersion": "1.01",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/index.html",
+  "status": "done",
+  "sizeBytes": 159441823,
+  "assetCount": 20,
+  "known404": [
+    "https://playobsidian.com/Kindergarten3Port.framework.js",
+    "https://playobsidian.com/Kindergarten3Port.loader.js",
+    "https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/TemplateData/favicon.ico",
+    "https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/TemplateData/style.css",
+    "https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/Kindergarten3Port.framework.js",
+      "error": "HTTP 404 for https://playobsidian.com/Kindergarten3Port.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/Kindergarten3Port.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/Kindergarten3Port.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/TemplateData/favicon.ico",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/TemplateData/favicon.ico",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/TemplateData/style.css",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/TemplateData/style.css",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/70a13019-78c4-46e9-a321-86d751c5228f/1.01/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T10:46:41.527Z",
+  "verifiedAt": "2026-11-16T15:48:53.129Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Kindergarten 3",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9981,
+    "rendered": true
+  }
+}

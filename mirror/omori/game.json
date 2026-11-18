@@ -1,0 +1,1153 @@
+{
+  "slug": "omori",
+  "title": "OMORI",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/gamefile/OMORI.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/OMORI.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/omori.webp",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/OMORI.html",
+  "entryUrl": "https://truffled.lol/gamefile/OMORI.html",
+  "status": "done",
+  "sizeBytes": 182421788,
+  "assetCount": 281,
+  "known404": [
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------EVENTER---------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/--------------------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------BATTLE_CORE---------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------ITEMS---------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MAP---------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------CORE---------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MAP_MOVEMENT---------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------UTILITY---------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MENU---------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------OMORI----------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------SKILLS---------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MESSAGE---------.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Aetherflow_PreloadEverything.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/AEL_TilesetPropertyRegions.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Archeia_MessageCodes.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Archeia_CoreChanges.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Aries001_AnimationScreenEffects.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Archeia_Steamworks.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/.ogg",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Community_Basic.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Aries003_WeatherControl.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/AudioStreaming.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Character_Movement_Graphics.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Custom_Character_Rectangles.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Custom_Picture_Controls.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/DisableMouse.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Exhydra_FollowerControl.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/ExtraMovementFrames.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Extra_Followers.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/FilterController.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/FilterControllerBlurPatch.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Follower_Control.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Gacha.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/fuku_EventTremble.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/fuku_testpack.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GachaBook.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_AnimatedSplashScreens.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_MoveRouteExtras.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_EventDetectors.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_CamControl.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GTP_OmoriFixes.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GTP_CoreUpdates.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/HIME_EnemyReinforcements.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Liquid_EventIcons.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/KEN_PictureBelowChars.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Liquid_EventData.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Map_Character_Tag.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/OggOnly.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Olivia_HorrorEffects.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Olivia_SkipCutscene.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/OMORI_BattleFormulas.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Olivia_MapDisplayNameCore.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/PresetAnimations.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/RegionRandomize.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/RotatePictureEx.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SimpleEventFade.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SlotMachine.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Sketchbook.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/smart_path_mv.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SpaghettiCode.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SRD_WaitOptions.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/stbvorbis_asm.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/stbvorbis_stream_asm.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/TDDP_AnimationCurves.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/TDDP_NoFastForward.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/TDDP_MovePictureEx.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Text_LanguageProcessor_MissingYAMLCrashPrevent.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Text_Language_Processor.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/WaitFPS.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YED_SideviewBattler.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YED_SideviewBattler_MIRROR.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YED_Tiled.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_AutoPassiveStates.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BaseTroopEvents.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BuffsStatesCore.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BattleAICore.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_CoreEngine.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_CallEvent.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BattleEngineCore.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_DamageCore.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_DashToggle.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_Debugger.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EquipCore.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventChasePlayer.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventCopier.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventEncounterAid.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventHitboxResize.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventMiniLabel.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventMorpher.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventProxActivate.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventSpawner.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventTimerControl.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventStepAniOpt.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventSpriteOffset.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_ExtraEnemyDrops.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_FootstepSounds.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_ImprovedBattlebacks.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_LifeSteal.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_LoadCustomFonts.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/ds-pixel-cyr.ttf",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/cc-wild-words.ttf",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_MessageCore.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_MoveRouteCore.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_RegionBattlebacks.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SaveEventLocations.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_RegionRestrictions.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_RegionEvents.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SkillCore.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SlipperyTiles.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SmartJump.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_StealSnatch.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SwapEnemies.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_Taunt.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_StopMapMovement.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_UtilityCommonEvents.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ActSeqPack1.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ActSeqPack2.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_TestPlayAssist.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_AnimatedSVEnemies.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ActSeqPack3.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_CounterControl.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ExtMesPack1.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ExtMesPack2.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_CriticalControl.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ExtMovePack1.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros1.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros2.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros3.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros5.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_PassiveAuras.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_StateCategories.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_Z_PassiveCases.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros4.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YIN_OmoriFixes.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YSP_VideoPlayer.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image.png?user=me&password=secret",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image.png?v=1&user=me&password=secret",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/something.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/image.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/spinObj_01.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/iamge.png?v=1",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/spritesheet.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/images/spritesheet.json",
+    "https://rawcdn.githack.com/video.webm",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/image.svg",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_01.png",
+    "https://rawcdn.githack.com/video.mp4",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_03.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_02.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_04.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/desyrel.fnt",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/data/bunny.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/score.fnt",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/BoxWithRoundedCorners.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/myImage.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/snake.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Actors.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Classes.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Skills.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Items.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Weapons.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Armors.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Troops.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/States.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Animations.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Enemies.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Tilesets.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/CommonEvents.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/System.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/MapInfos.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.m4a",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.ogg",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.png",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Event.json",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.mp4",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.webm",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.js",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.JS",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/main.wasm",
+    "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/main.temp.asm.js"
+  ],
+  "failed": [
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------EVENTER---------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------EVENTER---------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/--------------------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/--------------------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------BATTLE_CORE---------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------BATTLE_CORE---------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------ITEMS---------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------ITEMS---------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MAP---------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MAP---------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------CORE---------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------CORE---------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MAP_MOVEMENT---------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MAP_MOVEMENT---------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------UTILITY---------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------UTILITY---------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MENU---------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MENU---------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------OMORI----------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------OMORI----------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------SKILLS---------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------SKILLS---------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MESSAGE---------.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/---------MESSAGE---------.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Aetherflow_PreloadEverything.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Aetherflow_PreloadEverything.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/AEL_TilesetPropertyRegions.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/AEL_TilesetPropertyRegions.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Archeia_MessageCodes.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Archeia_MessageCodes.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Archeia_CoreChanges.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Archeia_CoreChanges.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Aries001_AnimationScreenEffects.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Aries001_AnimationScreenEffects.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Archeia_Steamworks.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Archeia_Steamworks.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/.ogg",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Community_Basic.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Community_Basic.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Aries003_WeatherControl.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Aries003_WeatherControl.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/AudioStreaming.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/AudioStreaming.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Character_Movement_Graphics.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Character_Movement_Graphics.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Custom_Character_Rectangles.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Custom_Character_Rectangles.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Custom_Picture_Controls.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Custom_Picture_Controls.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/DisableMouse.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/DisableMouse.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Exhydra_FollowerControl.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Exhydra_FollowerControl.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/ExtraMovementFrames.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/ExtraMovementFrames.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Extra_Followers.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Extra_Followers.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/FilterController.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/FilterController.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/FilterControllerBlurPatch.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/FilterControllerBlurPatch.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Follower_Control.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Follower_Control.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Gacha.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Gacha.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/fuku_EventTremble.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/fuku_EventTremble.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/fuku_testpack.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/fuku_testpack.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GachaBook.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GachaBook.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_AnimatedSplashScreens.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_AnimatedSplashScreens.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_MoveRouteExtras.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_MoveRouteExtras.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_EventDetectors.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_EventDetectors.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_CamControl.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GALV_CamControl.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GTP_OmoriFixes.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GTP_OmoriFixes.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GTP_CoreUpdates.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/GTP_CoreUpdates.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/HIME_EnemyReinforcements.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/HIME_EnemyReinforcements.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Liquid_EventIcons.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Liquid_EventIcons.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/KEN_PictureBelowChars.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/KEN_PictureBelowChars.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Liquid_EventData.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Liquid_EventData.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Map_Character_Tag.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Map_Character_Tag.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/OggOnly.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/OggOnly.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Olivia_HorrorEffects.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Olivia_HorrorEffects.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Olivia_SkipCutscene.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Olivia_SkipCutscene.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/OMORI_BattleFormulas.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/OMORI_BattleFormulas.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Olivia_MapDisplayNameCore.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Olivia_MapDisplayNameCore.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/PresetAnimations.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/PresetAnimations.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/RegionRandomize.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/RegionRandomize.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/RotatePictureEx.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/RotatePictureEx.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SimpleEventFade.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SimpleEventFade.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SlotMachine.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SlotMachine.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Sketchbook.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Sketchbook.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/smart_path_mv.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/smart_path_mv.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SpaghettiCode.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SpaghettiCode.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SRD_WaitOptions.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/SRD_WaitOptions.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/stbvorbis_asm.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/stbvorbis_asm.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/stbvorbis_stream_asm.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/stbvorbis_stream_asm.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/TDDP_AnimationCurves.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/TDDP_AnimationCurves.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/TDDP_NoFastForward.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/TDDP_NoFastForward.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/TDDP_MovePictureEx.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/TDDP_MovePictureEx.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Text_LanguageProcessor_MissingYAMLCrashPrevent.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Text_LanguageProcessor_MissingYAMLCrashPrevent.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Text_Language_Processor.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Text_Language_Processor.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/WaitFPS.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/WaitFPS.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YED_SideviewBattler.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YED_SideviewBattler.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YED_SideviewBattler_MIRROR.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YED_SideviewBattler_MIRROR.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YED_Tiled.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YED_Tiled.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_AutoPassiveStates.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_AutoPassiveStates.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Map%1.json",
+      "error": "HTTP 400 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/Map%1.json",
+      "status": 400
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BaseTroopEvents.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BaseTroopEvents.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BuffsStatesCore.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BuffsStatesCore.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BattleAICore.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BattleAICore.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_CoreEngine.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_CoreEngine.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_CallEvent.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_CallEvent.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BattleEngineCore.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_BattleEngineCore.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_DamageCore.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_DamageCore.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_DashToggle.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_DashToggle.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_Debugger.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_Debugger.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EquipCore.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EquipCore.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventChasePlayer.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventChasePlayer.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventCopier.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventCopier.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventEncounterAid.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventEncounterAid.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventHitboxResize.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventHitboxResize.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventMiniLabel.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventMiniLabel.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventMorpher.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventMorpher.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventProxActivate.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventProxActivate.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventSpawner.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventSpawner.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventTimerControl.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventTimerControl.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventStepAniOpt.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventStepAniOpt.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventSpriteOffset.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_EventSpriteOffset.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_ExtraEnemyDrops.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_ExtraEnemyDrops.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_FootstepSounds.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_FootstepSounds.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_ImprovedBattlebacks.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_ImprovedBattlebacks.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_LifeSteal.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_LifeSteal.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_LoadCustomFonts.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_LoadCustomFonts.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/ds-pixel-cyr.ttf",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/ds-pixel-cyr.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/cc-wild-words.ttf",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/cc-wild-words.ttf",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_MessageCore.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_MessageCore.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_MoveRouteCore.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_MoveRouteCore.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_RegionBattlebacks.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_RegionBattlebacks.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SaveEventLocations.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SaveEventLocations.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_RegionRestrictions.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_RegionRestrictions.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_RegionEvents.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_RegionEvents.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SkillCore.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SkillCore.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SlipperyTiles.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SlipperyTiles.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SmartJump.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SmartJump.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_StealSnatch.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_StealSnatch.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SwapEnemies.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_SwapEnemies.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_Taunt.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_Taunt.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_StopMapMovement.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_StopMapMovement.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_UtilityCommonEvents.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_UtilityCommonEvents.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ActSeqPack1.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ActSeqPack1.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ActSeqPack2.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ActSeqPack2.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_TestPlayAssist.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_TestPlayAssist.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_AnimatedSVEnemies.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_AnimatedSVEnemies.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ActSeqPack3.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ActSeqPack3.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_CounterControl.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_CounterControl.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ExtMesPack1.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ExtMesPack1.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ExtMesPack2.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ExtMesPack2.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_CriticalControl.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_CriticalControl.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ExtMovePack1.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_ExtMovePack1.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros1.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros1.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros2.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros2.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros3.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros3.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros5.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros5.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_PassiveAuras.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_PassiveAuras.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_StateCategories.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_StateCategories.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_Z_PassiveCases.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_Z_PassiveCases.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros4.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YEP_X_MessageMacros4.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YIN_OmoriFixes.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YIN_OmoriFixes.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YSP_VideoPlayer.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/YSP_VideoPlayer.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image.png?user=me&password=secret",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image.png?user=me&password=secret",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image.png?v=1&user=me&password=secret",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image.png?v=1&user=me&password=secret",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/something.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/something.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/image.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/image.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/spinObj_01.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/spinObj_01.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/iamge.png?v=1",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/iamge.png?v=1",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/spritesheet.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/spritesheet.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/images/spritesheet.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/images/spritesheet.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/video.webm",
+      "error": "HTTP 404 for https://rawcdn.githack.com/video.webm",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/image.svg",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/image.svg",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_01.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_01.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/video.mp4",
+      "error": "HTTP 404 for https://rawcdn.githack.com/video.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_03.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_03.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_02.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_02.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_04.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/image_sequence_04.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/desyrel.fnt",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/desyrel.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/data/bunny.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/data/bunny.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/score.fnt",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/assets/score.fnt",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/BoxWithRoundedCorners.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/BoxWithRoundedCorners.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/myImage.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/myImage.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/snake.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/libs/snake.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Actors.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Actors.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Classes.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Classes.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Skills.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Skills.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Items.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Items.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Weapons.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Weapons.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Armors.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Armors.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Troops.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Troops.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/States.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/States.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Animations.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Animations.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Enemies.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Enemies.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Tilesets.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Tilesets.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Map%1.json",
+      "error": "HTTP 400 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Map%1.json",
+      "status": 400
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/CommonEvents.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/CommonEvents.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/System.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/System.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/MapInfos.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/MapInfos.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.m4a",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.m4a",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.ogg",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.png",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.png",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Event.json",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/Event.json",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.mp4",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.mp4",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.webm",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.webm",
+      "status": 404
+    },
+    {
+      "url": "http://mydomain.com/video.mp4",
+      "error": "fetch failed",
+      "status": 0
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.js",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.JS",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/.JS",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/main.wasm",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/main.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/main.temp.asm.js",
+      "error": "HTTP 404 for https://rawcdn.githack.com/genizy/web-port/7b12ff52d3f945c053ff2cc5eb4e18212ba99769/omori-fixed/js/plugins/main.temp.asm.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-11-17T15:05:38.532Z",
+  "verifiedAt": "2026-11-17T15:06:44.706Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 2,
+    "title": "OMORI",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 800,
+      "height": 600
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0093,
+    "rendered": true
+  }
+}

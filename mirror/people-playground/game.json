@@ -1,0 +1,81 @@
+{
+  "slug": "people-playground",
+  "title": "People Playground",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/ppg/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/ppg/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/peoplepg.webp",
+  "baseUrl": "https://truffled.lol/games/ppg/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/ppg/index.html",
+  "status": "done",
+  "sizeBytes": 62200454,
+  "assetCount": 22,
+  "known404": [
+    "https://truffled.lol/pggbog.data",
+    "https://truffled.lol/pggbog.loader.js",
+    "https://truffled.lol/pggbog.wasm",
+    "https://truffled.lol/pggbog.framework.js",
+    "https://truffled.lol/games/ppg/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/pggbog.data",
+      "error": "HTTP 404 for https://truffled.lol/pggbog.data",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/pggbog.loader.js",
+      "error": "HTTP 404 for https://truffled.lol/pggbog.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/pggbog.wasm",
+      "error": "HTTP 404 for https://truffled.lol/pggbog.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/pggbog.framework.js",
+      "error": "HTTP 404 for https://truffled.lol/pggbog.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/games/ppg/Build/build.wasm",
+      "error": "HTTP 404 for https://truffled.lol/games/ppg/Build/build.wasm",
+      "status": 404
+    },
+    {
+      "url": "(crawl)",
+      "error": "crawl stalled; abandoned hung downloads",
+      "status": 0
+    }
+  ],
+  "mirroredAt": "2026-11-17T17:10:41.983Z",
+  "verifiedAt": "2026-11-18T07:00:26.794Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 1,
+    "title": "Unity WebGL Player | People Playground",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 713
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.9965,
+    "rendered": true
+  }
+}
