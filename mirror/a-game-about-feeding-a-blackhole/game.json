@@ -1,0 +1,99 @@
+{
+  "slug": "a-game-about-feeding-a-blackhole",
+  "title": "A Game About Feeding A Blackhole",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "source": "obsidian",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/gamefile/blackhole.html",
+  "sourceThumbnail": "",
+  "baseUrl": "https://truffled.lol/gamefile/",
+  "entry": "/blackhole.html",
+  "entryUrl": "https://truffled.lol/gamefile/blackhole.html",
+  "status": "done",
+  "sizeBytes": 164526228,
+  "assetCount": 30,
+  "known404": [],
+  "failed": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/index.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/index.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/index.pck",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/index.pck",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/godot.audio.position.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/godot.audio.position.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/godot.web.template_release.wasm32.nothreads.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/godot.web.template_release.wasm32.nothreads.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/index.apple-touch-icon.png",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/index.apple-touch-icon.png",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/.side.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/.side.wasm",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/.audio.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/.audio.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/godot.audio.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/godot.audio.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/.audio.position.worklet.js",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/.audio.position.worklet.js",
+      "status": 403
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/.wasm",
+      "error": "HTTP 403 for https://cdn.jsdelivr.net/gh/genizy/google-class@main/a-game-black-hole/.wasm",
+      "status": 403
+    }
+  ],
+  "mirroredAt": "2026-11-17T06:20:28.220Z",
+  "verifiedAt": "2026-11-17T06:20:40.320Z",
+  "verification": {
+    "external": 1,
+    "blocking": 0,
+    "ignoredExternal": 1,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 3,
+    "title": "A Game About Feeding A Black Hole",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8775,
+    "rendered": true
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "slug": "just-shapes-and-beats",
+  "title": "Just Shapes & Beats",
+  "type": "HTML",
+  "developer": "Berzerk Studio",
+  "description": "\"Just Shapes & Beats\" is a chaotic co-op musical bullet-hell based on three simple things: avoid Shapes, move to the kick-ass Beats, and die, repeatedly. It's a new spin on the SHMUP genre, adding a layer of cooperation that's at the core of the game: because everything is better with friends.",
+  "tags": [
+    "Arcade",
+    "Action",
+    "2D",
+    "Co-Op",
+    "Casual",
+    "Singleplayer"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "2dbf3816-d195-44dc-8d32-af8bbc8ad931",
+  "sourceVersion": "1.6.30",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/index.html",
+  "status": "done",
+  "sizeBytes": 172897097,
+  "assetCount": 104,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/jsab.data.unityweb",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/jsab.data.unityweb",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/jsab.wasm.code.unityweb",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/StreamingAssets/aa/WebGL/fonts_tmp_assets_all_c2712a523e390d12249a703a5257c93b.bundle",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/fonts_tmp_assets_all_c2712a523e390d12249a703a5257c93b.bundle",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/jsab.wasm.code.unityweb",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/.bundle",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/inflate.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/utils/strings.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/inflate.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/constants.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/messages.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/zstream.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/inftrees.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/decode.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/dictionary.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/dictionary-browser.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/dictionary.bin.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dictionary.bin.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/huffman.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/prefix.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/streams.js",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/.unityweb",
+    "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/transform.js"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/jsab.data.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/jsab.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/jsab.data.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/jsab.data.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/jsab.wasm.code.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/jsab.wasm.code.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/StreamingAssets/aa/WebGL/fonts_tmp_assets_all_c2712a523e390d12249a703a5257c93b.bundle",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/StreamingAssets/aa/WebGL/fonts_tmp_assets_all_c2712a523e390d12249a703a5257c93b.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/fonts_tmp_assets_all_c2712a523e390d12249a703a5257c93b.bundle",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/fonts_tmp_assets_all_c2712a523e390d12249a703a5257c93b.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/jsab.wasm.code.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/jsab.wasm.code.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/.bundle",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/.bundle",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/inflate.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/utils/strings.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/utils/strings.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/inflate.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/inflate.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/constants.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/constants.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/messages.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/messages.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/zstream.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/zstream.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/inftrees.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/zlib/inftrees.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/decode.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/decode.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/dictionary.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/dictionary.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/dictionary-browser.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/dictionary-browser.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/dictionary.bin.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dictionary.bin.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dictionary.bin.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/huffman.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/huffman.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/prefix.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/prefix.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/streams.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/streams.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/.unityweb",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/.unityweb",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/transform.js",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/2dbf3816-d195-44dc-8d32-af8bbc8ad931/1.6.30/Build/dec/transform.js",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:37:45.967Z",
+  "verifiedAt": "2026-11-16T15:47:08.562Z",
+  "verification": {
+    "external": 2,
+    "blocking": 0,
+    "ignoredExternal": 2,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Unity WebGL Player | JSB",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.8748,
+    "rendered": true
+  }
+}

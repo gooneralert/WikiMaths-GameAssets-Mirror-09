@@ -1,0 +1,93 @@
+{
+  "slug": "fish",
+  "title": "FISH",
+  "type": "HTML",
+  "developer": "dmcaguy",
+  "description": "\"Killer Fish!!\" FISH is a Platformer Run & Gun Shooter where you play as an armed FISH violently exploring through multiple levels. The game features a funny, unique stylized artstyle that could get a chuckle out of you!",
+  "tags": [
+    "Action",
+    "Platformer",
+    "Shooter",
+    "Funny",
+    "Cartoon",
+    "Indie"
+  ],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "7c93900c-df59-4f6b-99f9-eaec3f732563",
+  "sourceVersion": "2.0",
+  "sourceUrl": "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/index.html",
+  "baseUrl": "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/",
+  "entry": "/index.html",
+  "entryUrl": "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/index.html",
+  "status": "done",
+  "sizeBytes": 167576350,
+  "assetCount": 34,
+  "known404": [
+    "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/FISH.wasm",
+    "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/Build/FISH.data",
+    "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/Build/FISH.wasm",
+    "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/FISH.data",
+    "https://playobsidian.com/FISH.loader.js",
+    "https://playobsidian.com/FISH.framework.js",
+    "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/Build/build.wasm"
+  ],
+  "failed": [
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/FISH.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/FISH.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/Build/FISH.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/Build/FISH.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/Build/FISH.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/Build/FISH.wasm",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/FISH.data",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/FISH.data",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/FISH.loader.js",
+      "error": "HTTP 404 for https://playobsidian.com/FISH.loader.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/FISH.framework.js",
+      "error": "HTTP 404 for https://playobsidian.com/FISH.framework.js",
+      "status": 404
+    },
+    {
+      "url": "https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/Build/build.wasm",
+      "error": "HTTP 404 for https://playobsidian.com/cdn/assets/html/7c93900c-df59-4f6b-99f9-eaec3f732563/2.0/Build/build.wasm",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-26T11:26:46.765Z",
+  "verifiedAt": "2026-11-16T15:31:07.385Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1264,
+      "height": 625
+    },
+    "nonBlack": 0,
+    "screenshotNonBlack": 0.0119,
+    "rendered": true
+  }
+}

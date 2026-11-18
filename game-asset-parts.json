@@ -1,0 +1,15 @@
+{
+  "mirror/people-playground/Build/pggbog.data": {
+    "size": 119371400,
+    "parts": [
+      {
+        "path": "mirror/people-playground/Build/pggbog.data.part001",
+        "size": 90000000
+      },
+      {
+        "path": "mirror/people-playground/Build/pggbog.data.part002",
+        "size": 29371400
+      }
+    ]
+  }
+}

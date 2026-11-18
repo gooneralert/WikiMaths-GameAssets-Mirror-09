@@ -1,0 +1,1514 @@
+{
+  "slug": "castle-crashers",
+  "title": "Castle Crashers",
+  "type": "HTML",
+  "developer": "",
+  "description": "",
+  "tags": [],
+  "controls": [],
+  "gamepadControls": [],
+  "controllerSupport": false,
+  "sourceId": "truffled:/games/castle/index.html",
+  "source": "truffled",
+  "sourceVersion": "1",
+  "sourceUrl": "https://truffled.lol/games/castle/index.html",
+  "sourceThumbnail": "https://truffled.lol/png/games/castlecrash.webp",
+  "baseUrl": "https://truffled.lol/games/castle/",
+  "entry": "/index.html",
+  "entryUrl": "https://truffled.lol/games/castle/index.html",
+  "status": "done",
+  "sizeBytes": 181438426,
+  "assetCount": 1710,
+  "known404": [
+    "https://truffled.lol/xwma/000008b6-044b034e3ebcc06a.ogg",
+    "https://truffled.lol/xwma/000008b6-27dd57e332a5a111.ogg",
+    "https://truffled.lol/xwma/000008b6-2be519c4d50923b3.ogg",
+    "https://truffled.lol/xwma/000008b6-2eacd0a3c00639b5.ogg",
+    "https://truffled.lol/xwma/000008b6-2d63dee02e9475df.ogg",
+    "https://truffled.lol/xwma/000008b6-3d51b0af1fa0c3a7.ogg",
+    "https://truffled.lol/xwma/000008b6-3712205496dc6574.ogg",
+    "https://truffled.lol/xwma/000008b6-37c9ea20dc524143.ogg",
+    "https://truffled.lol/xwma/000008b6-4fbc63f7d1e9fb2b.ogg",
+    "https://truffled.lol/xwma/000008b6-515df84943767094.ogg",
+    "https://truffled.lol/xwma/000008b6-5bda60ebe0ec858c.ogg",
+    "https://truffled.lol/xwma/000008b6-6077d2367a4f9ba6.ogg",
+    "https://truffled.lol/xwma/000008b6-601edac918551a36.ogg",
+    "https://truffled.lol/xwma/000008b6-62804e373866493f.ogg",
+    "https://truffled.lol/xwma/000008b6-720c98410fd1e1ce.ogg",
+    "https://truffled.lol/xwma/000008b6-80c50e6eb7c3d363.ogg",
+    "https://truffled.lol/xwma/000008b6-8af166ec8591fa72.ogg",
+    "https://truffled.lol/xwma/000008b6-93487b7dbcc0322a.ogg",
+    "https://truffled.lol/xwma/000008b6-e8111199e1395eef.ogg",
+    "https://truffled.lol/xwma/000008b6-e7c0ebb723d765b0.ogg",
+    "https://truffled.lol/xwma/000008b6-f3b3f7f4e3c3afde.ogg",
+    "https://truffled.lol/xwma/0000116c-05056c882ada55bf.ogg",
+    "https://truffled.lol/xwma/0000116c-09c6ef1a86c3af29.ogg",
+    "https://truffled.lol/xwma/0000116c-09f92ebd288171ae.ogg",
+    "https://truffled.lol/xwma/0000116c-1b7ee236184254e4.ogg",
+    "https://truffled.lol/xwma/0000116c-134a33a65b8bd7cb.ogg",
+    "https://truffled.lol/xwma/0000116c-1f82bc72531c2d8e.ogg",
+    "https://truffled.lol/xwma/0000116c-23e7ac84939aa2ea.ogg",
+    "https://truffled.lol/xwma/0000116c-27872d17790eda33.ogg",
+    "https://truffled.lol/xwma/0000116c-25ed77e4dea9f3ea.ogg",
+    "https://truffled.lol/xwma/0000116c-2c6656abefd5726f.ogg",
+    "https://truffled.lol/xwma/0000116c-2a89921a306771be.ogg",
+    "https://truffled.lol/xwma/0000116c-2ed265f4cf2499dc.ogg",
+    "https://truffled.lol/xwma/0000116c-3f783fa54e3dea96.ogg",
+    "https://truffled.lol/xwma/0000116c-346ee8236cdd2125.ogg",
+    "https://truffled.lol/xwma/0000116c-329d014b31bfd338.ogg",
+    "https://truffled.lol/xwma/0000116c-38463574c82d1bba.ogg",
+    "https://truffled.lol/xwma/0000116c-353451143e0dbcf7.ogg",
+    "https://truffled.lol/xwma/0000116c-3be88f0a0b9080c5.ogg",
+    "https://truffled.lol/xwma/0000116c-40925624e2fb6ab7.ogg",
+    "https://truffled.lol/xwma/0000116c-4215b01cb8b5d54a.ogg",
+    "https://truffled.lol/xwma/0000116c-409f8b162cffcea2.ogg",
+    "https://truffled.lol/xwma/0000116c-44b16ff2f8b2d074.ogg",
+    "https://truffled.lol/xwma/0000116c-5146acad3fa5a6aa.ogg",
+    "https://truffled.lol/xwma/0000116c-494a13394c88878f.ogg",
+    "https://truffled.lol/xwma/0000116c-5371a41863098ab8.ogg",
+    "https://truffled.lol/xwma/0000116c-59d797a9a11b1ac0.ogg",
+    "https://truffled.lol/xwma/0000116c-5ad9538e8d0df552.ogg",
+    "https://truffled.lol/xwma/0000116c-6090a19c4e6f27ed.ogg",
+    "https://truffled.lol/xwma/0000116c-5465c0ba4878a5fd.ogg",
+    "https://truffled.lol/xwma/0000116c-547a84d13ea94446.ogg",
+    "https://truffled.lol/xwma/0000116c-63da82d959214405.ogg",
+    "https://truffled.lol/xwma/0000116c-662cba2ed33067b7.ogg",
+    "https://truffled.lol/xwma/0000116c-67be878cbc125571.ogg",
+    "https://truffled.lol/xwma/0000116c-70f86a5fcc2eb140.ogg",
+    "https://truffled.lol/xwma/0000116c-73c1c33e0949801b.ogg",
+    "https://truffled.lol/xwma/0000116c-717c17a1e59074f0.ogg",
+    "https://truffled.lol/xwma/0000116c-73cf2597d82c64aa.ogg",
+    "https://truffled.lol/xwma/0000116c-774a993ada875ef8.ogg",
+    "https://truffled.lol/xwma/0000116c-772a1a0bd3e73470.ogg",
+    "https://truffled.lol/xwma/0000116c-7b139f6895cf3525.ogg",
+    "https://truffled.lol/xwma/0000116c-7ddf8158d866e675.ogg",
+    "https://truffled.lol/xwma/0000116c-8715f1ca89d42135.ogg",
+    "https://truffled.lol/xwma/0000116c-87250b2ff1341b16.ogg",
+    "https://truffled.lol/xwma/0000116c-9e03c302cba5fc18.ogg",
+    "https://truffled.lol/xwma/0000116c-8a0239796a4eb96b.ogg",
+    "https://truffled.lol/xwma/0000116c-914fb994de5f34ac.ogg",
+    "https://truffled.lol/xwma/0000116c-928c301ee0ec11fb.ogg",
+    "https://truffled.lol/xwma/0000116c-9fa94497b2ed4074.ogg",
+    "https://truffled.lol/xwma/0000116c-aab9d8dbeabcbaa0.ogg",
+    "https://truffled.lol/xwma/0000116c-b312de6755504e0a.ogg",
+    "https://truffled.lol/xwma/0000116c-adea79ee2da99608.ogg",
+    "https://truffled.lol/xwma/0000116c-b357ef222491f417.ogg",
+    "https://truffled.lol/xwma/0000116c-b559f666be9fd2f6.ogg",
+    "https://truffled.lol/xwma/0000116c-b6755c4f0ee9282d.ogg",
+    "https://truffled.lol/xwma/0000116c-b88bbed9c4f275be.ogg",
+    "https://truffled.lol/xwma/0000116c-c375ba913cfbb854.ogg",
+    "https://truffled.lol/xwma/0000116c-c6846fba527ae467.ogg",
+    "https://truffled.lol/xwma/0000116c-c6cb2964f80be5af.ogg",
+    "https://truffled.lol/xwma/0000116c-be1cefd6053d9aa1.ogg",
+    "https://truffled.lol/xwma/0000116c-c78184e100a85292.ogg",
+    "https://truffled.lol/xwma/0000116c-c90aa94fffa67a09.ogg",
+    "https://truffled.lol/xwma/0000116c-ca56af804cf53f94.ogg",
+    "https://truffled.lol/xwma/0000116c-cc46955c79c31c51.ogg",
+    "https://truffled.lol/xwma/0000116c-d4a9165fef87095b.ogg",
+    "https://truffled.lol/xwma/0000116c-cfeed915d6977df3.ogg",
+    "https://truffled.lol/xwma/0000116c-cea3aeffde98738e.ogg",
+    "https://truffled.lol/xwma/0000116c-d5a54637eab047a8.ogg",
+    "https://truffled.lol/xwma/0000116c-d712bbf0ae3e692b.ogg",
+    "https://truffled.lol/xwma/0000116c-dd93e32198ec79db.ogg",
+    "https://truffled.lol/xwma/0000116c-e1e1a067fb1636dd.ogg",
+    "https://truffled.lol/xwma/0000116c-d883dd560e4ead51.ogg",
+    "https://truffled.lol/xwma/0000116c-e2366a9d1b89966e.ogg",
+    "https://truffled.lol/xwma/0000116c-e46a8c5294f5f38b.ogg",
+    "https://truffled.lol/xwma/0000116c-e846808b2fad0ba1.ogg",
+    "https://truffled.lol/xwma/0000116c-e6581931ba40d064.ogg",
+    "https://truffled.lol/xwma/0000116c-f0753ee7992a34bc.ogg",
+    "https://truffled.lol/xwma/0000116c-ef9f9e5bb82ea6fa.ogg",
+    "https://truffled.lol/xwma/0000116c-efe45a4af33676cb.ogg",
+    "https://truffled.lol/xwma/0000116c-f0b8a1b86d6ceeec.ogg",
+    "https://truffled.lol/xwma/0000116c-f78fb52ff9a6d7ce.ogg",
+    "https://truffled.lol/xwma/0000116c-f1c28ee106df9168.ogg",
+    "https://truffled.lol/xwma/0000116c-f498020d24af974e.ogg",
+    "https://truffled.lol/xwma/0000116c-f8961dfcd74bc2e0.ogg",
+    "https://truffled.lol/xwma/0000116c-f94caeecd0caa443.ogg",
+    "https://truffled.lol/xwma/00001a22-035b3e3ea45153d8.ogg",
+    "https://truffled.lol/xwma/00001a22-037eed663c07fb13.ogg",
+    "https://truffled.lol/xwma/00001a22-2e1fb19294b3e0ee.ogg",
+    "https://truffled.lol/xwma/00001a22-2610aeaa884acbac.ogg",
+    "https://truffled.lol/xwma/00001a22-2e3c81de06c90323.ogg",
+    "https://truffled.lol/xwma/00001a22-38075777b75eb981.ogg",
+    "https://truffled.lol/xwma/00001a22-3dfdf52a6c91b7db.ogg",
+    "https://truffled.lol/xwma/00001a22-3fa9c7afda51d383.ogg",
+    "https://truffled.lol/xwma/00001a22-400737126ec56cc8.ogg",
+    "https://truffled.lol/xwma/00001a22-422dfb69e85b290b.ogg",
+    "https://truffled.lol/xwma/00001a22-4151e112ad16af38.ogg",
+    "https://truffled.lol/xwma/00001a22-42fe777c019d85f6.ogg",
+    "https://truffled.lol/xwma/00001a22-45c7ba4dac166b19.ogg",
+    "https://truffled.lol/xwma/00001a22-46ff071c52935cf6.ogg",
+    "https://truffled.lol/xwma/00001a22-488dd0bbcf34a0df.ogg",
+    "https://truffled.lol/xwma/00001a22-4a7f29606e3798e4.ogg",
+    "https://truffled.lol/xwma/00001a22-5a96b21568335ab2.ogg",
+    "https://truffled.lol/xwma/00001a22-558814c6fc5ee200.ogg",
+    "https://truffled.lol/xwma/00001a22-5f005c4e1b1be858.ogg",
+    "https://truffled.lol/xwma/00001a22-6a514f66bbec111d.ogg",
+    "https://truffled.lol/xwma/00001a22-6ad872fc15b3ba6e.ogg",
+    "https://truffled.lol/xwma/00001a22-6c916a0e9dadd291.ogg",
+    "https://truffled.lol/xwma/00001a22-6e42f40bf2760dca.ogg",
+    "https://truffled.lol/xwma/00001a22-789d07beb1056b51.ogg",
+    "https://truffled.lol/xwma/00001a22-842aad0028b0fb44.ogg",
+    "https://truffled.lol/xwma/00001a22-86ef821676624989.ogg",
+    "https://truffled.lol/xwma/00001a22-85b892a3fab2cdd3.ogg",
+    "https://truffled.lol/xwma/00001a22-868d85afabb1ea1b.ogg",
+    "https://truffled.lol/xwma/00001a22-8778db759558c949.ogg",
+    "https://truffled.lol/xwma/00001a22-8c1a5d1c70e9e526.ogg",
+    "https://truffled.lol/xwma/00001a22-99a8a12da9592b74.ogg",
+    "https://truffled.lol/xwma/00001a22-9f0d753659c5867c.ogg",
+    "https://truffled.lol/xwma/00001a22-9bf825057f40c66d.ogg",
+    "https://truffled.lol/xwma/00001a22-a62b86523a08ec6d.ogg",
+    "https://truffled.lol/xwma/00001a22-a77cac456c704ebe.ogg",
+    "https://truffled.lol/xwma/00001a22-a731c0e2f897a8cf.ogg",
+    "https://truffled.lol/xwma/00001a22-ae6a90eec100d96f.ogg",
+    "https://truffled.lol/xwma/00001a22-c3d194b5a0f8a84c.ogg",
+    "https://truffled.lol/xwma/00001a22-bc69d8ecbe5c442f.ogg",
+    "https://truffled.lol/xwma/00001a22-d0f6ef5a508e4306.ogg",
+    "https://truffled.lol/xwma/00001a22-d2bb169891b0bd7d.ogg",
+    "https://truffled.lol/xwma/00001a22-ca462293a0467614.ogg",
+    "https://truffled.lol/xwma/00001a22-df9bdf59c19bad8e.ogg",
+    "https://truffled.lol/xwma/00001a22-e06ce7f668dcd32a.ogg",
+    "https://truffled.lol/xwma/00001a22-e119e6ffb7f31163.ogg",
+    "https://truffled.lol/xwma/00001a22-e2043787eb781667.ogg",
+    "https://truffled.lol/xwma/00001a22-e7b12327af2135d3.ogg",
+    "https://truffled.lol/xwma/00001a22-eb2ec3eca59a3151.ogg",
+    "https://truffled.lol/xwma/00001a22-ef6a750ef5e5e815.ogg",
+    "https://truffled.lol/xwma/00001a22-f7ac45e15b3ffbdc.ogg",
+    "https://truffled.lol/xwma/00001a22-f27ce6274f8033c7.ogg",
+    "https://truffled.lol/xwma/00001a22-f99ebc0a412c8f05.ogg",
+    "https://truffled.lol/xwma/000022d8-008f13cd3bb6fc78.ogg",
+    "https://truffled.lol/xwma/000022d8-0aa7bccf8c5eddc3.ogg",
+    "https://truffled.lol/xwma/000022d8-0d6082b84630c258.ogg",
+    "https://truffled.lol/xwma/000022d8-12e1b1bd6c9c7710.ogg",
+    "https://truffled.lol/xwma/000022d8-1919dad357eb43a9.ogg",
+    "https://truffled.lol/xwma/000022d8-24646489343b2a45.ogg",
+    "https://truffled.lol/xwma/000022d8-2b1902ee98fead26.ogg",
+    "https://truffled.lol/xwma/000022d8-27ef950ff29a57fd.ogg",
+    "https://truffled.lol/xwma/000022d8-37a620f02ecdb366.ogg",
+    "https://truffled.lol/xwma/000022d8-3c897b595ed8c4fb.ogg",
+    "https://truffled.lol/xwma/000022d8-4f8f24da0556b66a.ogg",
+    "https://truffled.lol/xwma/000022d8-4f524a0219267903.ogg",
+    "https://truffled.lol/xwma/000022d8-57f45404cb708da5.ogg",
+    "https://truffled.lol/xwma/000022d8-4daae014cbe0b0f5.ogg",
+    "https://truffled.lol/xwma/000022d8-5e31e12fa5b3b1b8.ogg",
+    "https://truffled.lol/xwma/000022d8-6569c29766daf0a1.ogg",
+    "https://truffled.lol/xwma/000022d8-6a45ecc48af574a0.ogg",
+    "https://truffled.lol/xwma/000022d8-650fe99ee6851510.ogg",
+    "https://truffled.lol/xwma/000022d8-654398d8c6bb1505.ogg",
+    "https://truffled.lol/xwma/000022d8-6a382dd45ef29827.ogg",
+    "https://truffled.lol/xwma/000022d8-6f816da5f06f128a.ogg",
+    "https://truffled.lol/xwma/000022d8-72c51d10c95cb26f.ogg",
+    "https://truffled.lol/xwma/000022d8-7365d7c82cb005af.ogg",
+    "https://truffled.lol/xwma/000022d8-807ba84c85208a9c.ogg",
+    "https://truffled.lol/xwma/000022d8-7f36c00b3716fb38.ogg",
+    "https://truffled.lol/xwma/000022d8-7f88677a937e1988.ogg",
+    "https://truffled.lol/xwma/000022d8-89cccf2abe75a5ca.ogg",
+    "https://truffled.lol/xwma/000022d8-8e4b6916fc97bef7.ogg",
+    "https://truffled.lol/xwma/000022d8-8cfcd6e59b5e5f67.ogg",
+    "https://truffled.lol/xwma/000022d8-8e58cf76a1e8f4e2.ogg",
+    "https://truffled.lol/xwma/000022d8-a8ac26df2909e570.ogg",
+    "https://truffled.lol/xwma/000022d8-af25bd985fe3cfa3.ogg",
+    "https://truffled.lol/xwma/000022d8-ba642bf3ac9232e9.ogg",
+    "https://truffled.lol/xwma/000022d8-b87d36f825258288.ogg",
+    "https://truffled.lol/xwma/000022d8-bababbe49375b11f.ogg",
+    "https://truffled.lol/xwma/000022d8-c5d49a97b09e30ca.ogg",
+    "https://truffled.lol/xwma/000022d8-c705e1c80de435d3.ogg",
+    "https://truffled.lol/xwma/000022d8-bda0dbb58704df44.ogg",
+    "https://truffled.lol/xwma/000022d8-cd69cce0205afa2c.ogg",
+    "https://truffled.lol/xwma/000022d8-d2c6c895cdf1a56b.ogg",
+    "https://truffled.lol/xwma/000022d8-d718a6738eb4a47d.ogg",
+    "https://truffled.lol/xwma/000022d8-e5945745a8b87e51.ogg",
+    "https://truffled.lol/xwma/000022d8-e1422565934dca40.ogg",
+    "https://truffled.lol/xwma/000022d8-e3100852a6cd9f73.ogg",
+    "https://truffled.lol/xwma/000022d8-e6f3e37b6e1dd465.ogg",
+    "https://truffled.lol/xwma/000022d8-ebeca91e91528412.ogg",
+    "https://truffled.lol/xwma/000022d8-f6f6e77445d7dea6.ogg",
+    "https://truffled.lol/xwma/000022d8-fb1b77a648dd01f7.ogg",
+    "https://truffled.lol/xwma/00002b8e-0d08850e9f69931f.ogg",
+    "https://truffled.lol/xwma/000022d8-fdca3b3546e6edaf.ogg",
+    "https://truffled.lol/xwma/00002b8e-1009226fe620bb86.ogg",
+    "https://truffled.lol/xwma/00002b8e-12cffbf2be0c5493.ogg",
+    "https://truffled.lol/xwma/00002b8e-10eed7838a1ba19c.ogg",
+    "https://truffled.lol/xwma/00002b8e-2a6f84975e952a42.ogg",
+    "https://truffled.lol/xwma/00002b8e-19cdc0449ae02ebf.ogg",
+    "https://truffled.lol/xwma/00002b8e-3071e9e2526a274a.ogg",
+    "https://truffled.lol/xwma/00002b8e-3383c66be102d3d6.ogg",
+    "https://truffled.lol/xwma/00002b8e-3ad3e80fbde30c61.ogg",
+    "https://truffled.lol/xwma/00002b8e-3cfa8cc922968367.ogg",
+    "https://truffled.lol/xwma/00002b8e-4789c30eba6cc71a.ogg",
+    "https://truffled.lol/xwma/00002b8e-42a6fba2d16c418e.ogg",
+    "https://truffled.lol/xwma/00002b8e-49a7da455deb3a6c.ogg",
+    "https://truffled.lol/xwma/00002b8e-4ef715e2411330e0.ogg",
+    "https://truffled.lol/xwma/00002b8e-50a09e1062bc4381.ogg",
+    "https://truffled.lol/xwma/00002b8e-5856f0757c00a5c5.ogg",
+    "https://truffled.lol/xwma/00002b8e-4de3052de48b6427.ogg",
+    "https://truffled.lol/xwma/00002b8e-6073d02785f3e4a2.ogg",
+    "https://truffled.lol/xwma/00002b8e-616808da697b4dc6.ogg",
+    "https://truffled.lol/xwma/00002b8e-6d5457b088cd26a2.ogg",
+    "https://truffled.lol/xwma/00002b8e-6b117d0c129445fa.ogg",
+    "https://truffled.lol/xwma/00002b8e-669779b5c1fc1467.ogg",
+    "https://truffled.lol/xwma/00002b8e-69865fb95da2f165.ogg",
+    "https://truffled.lol/xwma/00002b8e-7a212065248611cf.ogg",
+    "https://truffled.lol/xwma/00002b8e-72ffc35457689f6e.ogg",
+    "https://truffled.lol/xwma/00002b8e-7ea2eb5255525d0f.ogg",
+    "https://truffled.lol/xwma/00002b8e-80ccc45565f4ca47.ogg",
+    "https://truffled.lol/xwma/00002b8e-87cf72d4685eb471.ogg",
+    "https://truffled.lol/xwma/00002b8e-8bdb491f7ab3a2fb.ogg",
+    "https://truffled.lol/xwma/00002b8e-900d6a0fbb78eaf6.ogg",
+    "https://truffled.lol/xwma/00002b8e-9d376dc44c4057ba.ogg",
+    "https://truffled.lol/xwma/00002b8e-aa5e5b4ce4134234.ogg",
+    "https://truffled.lol/xwma/00002b8e-a62fdc479ace4818.ogg",
+    "https://truffled.lol/xwma/00002b8e-ad3b11cdf9102e9b.ogg",
+    "https://truffled.lol/xwma/00002b8e-abdadff8a8391560.ogg",
+    "https://truffled.lol/xwma/00002b8e-b54f7dab6e1a2572.ogg",
+    "https://truffled.lol/xwma/00002b8e-b2ed144402bddfd8.ogg",
+    "https://truffled.lol/xwma/00002b8e-b646c2dc949b393e.ogg",
+    "https://truffled.lol/xwma/00002b8e-bfd5c03cff0a3f95.ogg",
+    "https://truffled.lol/xwma/00002b8e-c3e7f7f5e47c3599.ogg",
+    "https://truffled.lol/xwma/00002b8e-ca117d8c687663d4.ogg",
+    "https://truffled.lol/xwma/00002b8e-cddd1b7084218ac8.ogg",
+    "https://truffled.lol/xwma/00002b8e-c3928e9ffbe90aef.ogg",
+    "https://truffled.lol/xwma/00002b8e-d125d30fa82736d3.ogg",
+    "https://truffled.lol/xwma/00002b8e-d99d2e89550a4b7a.ogg",
+    "https://truffled.lol/xwma/00002b8e-dcdfb1f4afd8425d.ogg",
+    "https://truffled.lol/xwma/00002b8e-e4febdbbfcc2b93e.ogg",
+    "https://truffled.lol/xwma/00002b8e-e0d3ce8739b01800.ogg",
+    "https://truffled.lol/xwma/00002b8e-d53289bd8abd52ba.ogg",
+    "https://truffled.lol/xwma/00002b8e-e7d7ef61af5c1279.ogg",
+    "https://truffled.lol/xwma/00002b8e-f32658dd0e2bd035.ogg",
+    "https://truffled.lol/xwma/00002b8e-fd46733c150e00ea.ogg",
+    "https://truffled.lol/xwma/00003444-130d7bc845e3e382.ogg",
+    "https://truffled.lol/xwma/00002b8e-fdc72ce39d8dc74a.ogg",
+    "https://truffled.lol/xwma/00002b8e-f444f9f0d19c3c62.ogg",
+    "https://truffled.lol/xwma/00003444-18d130fc5ca9d128.ogg",
+    "https://truffled.lol/xwma/00003444-215fc8b3c178f260.ogg",
+    "https://truffled.lol/xwma/00003444-3324af7d53f619fb.ogg",
+    "https://truffled.lol/xwma/00003444-337ccf0143f95a9a.ogg",
+    "https://truffled.lol/xwma/00003444-3f8bfc1866d4eb36.ogg",
+    "https://truffled.lol/xwma/00003444-3c0af6efef0d33ca.ogg",
+    "https://truffled.lol/xwma/00003444-5b90d0b9c8464380.ogg",
+    "https://truffled.lol/xwma/00003444-496be8137ef31665.ogg",
+    "https://truffled.lol/xwma/00003444-5aee3ed4c6d09dfa.ogg",
+    "https://truffled.lol/xwma/00003444-4b3813cc6d3694da.ogg",
+    "https://truffled.lol/xwma/00003444-6ba8c02944227b82.ogg",
+    "https://truffled.lol/xwma/00003444-6b28e4ab0e655a7f.ogg",
+    "https://truffled.lol/xwma/00003444-6bd8499ea6ec8117.ogg",
+    "https://truffled.lol/xwma/00003444-7012299e4a614164.ogg",
+    "https://truffled.lol/xwma/00003444-7d84428d3a42599d.ogg",
+    "https://truffled.lol/xwma/00003444-784314964d723bdd.ogg",
+    "https://truffled.lol/xwma/00003444-85f272ad656fe7fd.ogg",
+    "https://truffled.lol/xwma/00003444-91fec774acbd336e.ogg",
+    "https://truffled.lol/xwma/00003444-b8f82e57486912aa.ogg",
+    "https://truffled.lol/xwma/00003444-9342e9524813374b.ogg",
+    "https://truffled.lol/xwma/00003444-c9605fca585e6ce8.ogg",
+    "https://truffled.lol/xwma/00003444-ce9ca7574e22d8c4.ogg",
+    "https://truffled.lol/xwma/00003444-d4a0fd3f35561e16.ogg",
+    "https://truffled.lol/xwma/00003444-d7dd6c8fdc06a917.ogg",
+    "https://truffled.lol/xwma/00003444-df473da80c6b0788.ogg",
+    "https://truffled.lol/xwma/00003444-eeeaf1678a72ee75.ogg",
+    "https://truffled.lol/xwma/00003cfa-06a7adbea4cfb167.ogg",
+    "https://truffled.lol/xwma/00003444-fb853341ea5cabe2.ogg",
+    "https://truffled.lol/xwma/00003cfa-07c054d044483aa7.ogg",
+    "https://truffled.lol/xwma/00003cfa-09061cae9705162a.ogg",
+    "https://truffled.lol/xwma/00003cfa-0ad2d44c1991fb26.ogg",
+    "https://truffled.lol/xwma/00003cfa-174cb01fc30caa24.ogg",
+    "https://truffled.lol/xwma/00003cfa-4b5c1d99e8c479e2.ogg",
+    "https://truffled.lol/xwma/00003cfa-39d4bfcf6de21e5a.ogg",
+    "https://truffled.lol/xwma/00003cfa-4a201298522e10a1.ogg",
+    "https://truffled.lol/xwma/00003cfa-4bcec8b6894e5445.ogg",
+    "https://truffled.lol/xwma/00003cfa-54eb570b4fec499c.ogg",
+    "https://truffled.lol/xwma/00003cfa-5407f2d3e7842c53.ogg",
+    "https://truffled.lol/xwma/00003cfa-8cebcc07ae81096c.ogg",
+    "https://truffled.lol/xwma/00003cfa-c0fa3d268b5c9da1.ogg",
+    "https://truffled.lol/xwma/00003cfa-8dafba4bf7213459.ogg",
+    "https://truffled.lol/xwma/00003cfa-b2ef8f2825fd7be4.ogg",
+    "https://truffled.lol/xwma/00003cfa-c9da1baf2a28d40d.ogg",
+    "https://truffled.lol/xwma/00003cfa-d81a7cc23bdf656f.ogg",
+    "https://truffled.lol/xwma/00003cfa-fa3821d914562c18.ogg",
+    "https://truffled.lol/xwma/000045b0-5dab248e98c32a0e.ogg",
+    "https://truffled.lol/xwma/000045b0-4cd5ad6426041d4e.ogg",
+    "https://truffled.lol/xwma/000045b0-65391cf90dfe00a4.ogg",
+    "https://truffled.lol/xwma/000045b0-69d8a910fb247550.ogg",
+    "https://truffled.lol/xwma/000045b0-a0ecaec72b9bbc07.ogg",
+    "https://truffled.lol/xwma/000045b0-93a3a85dcf0a2463.ogg",
+    "https://truffled.lol/xwma/000045b0-bf4951690b4c3339.ogg",
+    "https://truffled.lol/xwma/000045b0-9ac283ca08b18976.ogg",
+    "https://truffled.lol/xwma/000045b0-add938e1bf9eaa0c.ogg",
+    "https://truffled.lol/xwma/000045b0-c57747ecf5ca5d66.ogg",
+    "https://truffled.lol/xwma/000045b0-c0cd924b22c0acac.ogg",
+    "https://truffled.lol/xwma/000045b0-d685a4580fbc8143.ogg",
+    "https://truffled.lol/xwma/000045b0-d8e0b419e0745a11.ogg",
+    "https://truffled.lol/xwma/000045b0-fd478c174495f2e3.ogg",
+    "https://truffled.lol/xwma/000045b0-fc0e863872347bca.ogg",
+    "https://truffled.lol/xwma/00004e66-12c45a754d5a6d58.ogg",
+    "https://truffled.lol/xwma/00004e66-1eda71db66d23267.ogg",
+    "https://truffled.lol/xwma/00004e66-1185a450db8b6c90.ogg",
+    "https://truffled.lol/xwma/00004e66-56a0908ad6ae826d.ogg",
+    "https://truffled.lol/xwma/00004e66-481f77b19a42e0c9.ogg",
+    "https://truffled.lol/xwma/00004e66-35c551a20b2c2b21.ogg",
+    "https://truffled.lol/xwma/00004e66-69256faa663c1c4d.ogg",
+    "https://truffled.lol/xwma/00004e66-5cbb96f92c69d4aa.ogg",
+    "https://truffled.lol/xwma/00004e66-8103a0f88e52808a.ogg",
+    "https://truffled.lol/xwma/00004e66-8dae7600043cdefa.ogg",
+    "https://truffled.lol/xwma/00004e66-a3f989de1a729be9.ogg",
+    "https://truffled.lol/xwma/00004e66-9be103808f837611.ogg",
+    "https://truffled.lol/xwma/00004e66-da305ab38c14fc7a.ogg",
+    "https://truffled.lol/xwma/00004e66-e9381e1876750be2.ogg",
+    "https://truffled.lol/xwma/0000571c-161b556f25c48f68.ogg",
+    "https://truffled.lol/xwma/0000571c-2200025d9cbabc8f.ogg",
+    "https://truffled.lol/xwma/0000571c-24729e78ecdc938c.ogg",
+    "https://truffled.lol/xwma/0000571c-1ce03bd61f59a10b.ogg",
+    "https://truffled.lol/xwma/0000571c-2a332b8042e55465.ogg",
+    "https://truffled.lol/xwma/0000571c-53c04979700c200e.ogg",
+    "https://truffled.lol/xwma/0000571c-7c24a002cae8a181.ogg",
+    "https://truffled.lol/xwma/0000571c-6752cf6031f54363.ogg",
+    "https://truffled.lol/xwma/0000571c-99a3c73fdb60e485.ogg",
+    "https://truffled.lol/xwma/0000571c-b878e831d8ec17b0.ogg",
+    "https://truffled.lol/xwma/0000571c-cb4bd90ea0256e80.ogg",
+    "https://truffled.lol/xwma/00005fd2-1131046d0869395d.ogg",
+    "https://truffled.lol/xwma/00005fd2-49969b600673e074.ogg",
+    "https://truffled.lol/xwma/00005fd2-4403260f4b402216.ogg",
+    "https://truffled.lol/xwma/00005fd2-6cef6c156fa54181.ogg",
+    "https://truffled.lol/xwma/00005fd2-1c4cbce252abd1f9.ogg",
+    "https://truffled.lol/xwma/00005fd2-705d059b040ac9ca.ogg",
+    "https://truffled.lol/xwma/00006888-08cd202a1d594fcf.ogg",
+    "https://truffled.lol/xwma/00005fd2-9d459436d3c41ab2.ogg",
+    "https://truffled.lol/xwma/00005fd2-fbc8e0b330413e9c.ogg",
+    "https://truffled.lol/xwma/00006888-1113a9ef3ab6d5be.ogg",
+    "https://truffled.lol/xwma/00006888-154b4bb3ee2af351.ogg",
+    "https://truffled.lol/xwma/00006888-160a0863ca66fc4e.ogg",
+    "https://truffled.lol/xwma/00006888-9ba82c629471aa7b.ogg",
+    "https://truffled.lol/xwma/00006888-236ef01f241a32a2.ogg",
+    "https://truffled.lol/xwma/00006888-c784df16277beb40.ogg",
+    "https://truffled.lol/xwma/00006888-a988e25db4282fb2.ogg",
+    "https://truffled.lol/xwma/00006888-d713e650c6ec6f07.ogg",
+    "https://truffled.lol/xwma/00006888-ff7b3bfcbe7f7b40.ogg",
+    "https://truffled.lol/xwma/0000713e-288503c5ab6214dc.ogg",
+    "https://truffled.lol/xwma/0000713e-1f6b5bb2739988b3.ogg",
+    "https://truffled.lol/xwma/0000713e-524107030969d864.ogg",
+    "https://truffled.lol/xwma/0000713e-9af478c14c56ae6a.ogg",
+    "https://truffled.lol/xwma/0000713e-54ede1705913b646.ogg",
+    "https://truffled.lol/xwma/0000713e-c828e1c53d2c2e12.ogg",
+    "https://truffled.lol/xwma/000079f4-1c03aaed3f40bc30.ogg",
+    "https://truffled.lol/xwma/000079f4-2df4b4a68257b917.ogg",
+    "https://truffled.lol/xwma/000079f4-2a569dcd7304d09d.ogg",
+    "https://truffled.lol/xwma/0000713e-d91ee4de892faff1.ogg",
+    "https://truffled.lol/xwma/000079f4-5753d01e61dc58ae.ogg",
+    "https://truffled.lol/xwma/000079f4-ff58befed0b36b29.ogg",
+    "https://truffled.lol/xwma/000082aa-16d081ba7e4f01c4.ogg",
+    "https://truffled.lol/xwma/000082aa-de2739797e6de131.ogg",
+    "https://truffled.lol/xwma/00008b60-31422601293e92a9.ogg",
+    "https://truffled.lol/xwma/00008b60-42077e96ee97a2dd.ogg",
+    "https://truffled.lol/xwma/00009416-3287f17fc0cb32f4.ogg",
+    "https://truffled.lol/xwma/00009ccc-19a4860e835311e5.ogg",
+    "https://truffled.lol/xwma/00009416-4f3a5d1abc84cf0b.ogg",
+    "https://truffled.lol/xwma/00009416-c1a9bfa6cbe44a5b.ogg",
+    "https://truffled.lol/xwma/00009416-7531e1c68aca4827.ogg",
+    "https://truffled.lol/xwma/00009ccc-168a4f832d4756a6.ogg",
+    "https://truffled.lol/xwma/00009416-3a901022cfe36acb.ogg",
+    "https://truffled.lol/xwma/00009ccc-2958a55f344004a5.ogg",
+    "https://truffled.lol/xwma/00009ccc-67fa1e2246a159fa.ogg",
+    "https://truffled.lol/xwma/00009ccc-85dce76f51eeb55f.ogg",
+    "https://truffled.lol/xwma/0000a582-cc63c0a6a1887dc1.ogg",
+    "https://truffled.lol/xwma/0000a582-e72b297e31b43d06.ogg",
+    "https://truffled.lol/xwma/0000a582-e65efa87fbec471b.ogg",
+    "https://truffled.lol/xwma/0000ae38-02414503c395da98.ogg",
+    "https://truffled.lol/xwma/0000a582-f70984dae0e9183c.ogg",
+    "https://truffled.lol/xwma/0000ae38-0ed428b5296af6b9.ogg",
+    "https://truffled.lol/xwma/0000ae38-14d22d239b6444bb.ogg",
+    "https://truffled.lol/xwma/0000ae38-ffad5087af12c62a.ogg",
+    "https://truffled.lol/xwma/0000ae38-68e7e5992dd6e00e.ogg",
+    "https://truffled.lol/xwma/0000b6ee-fb83c92dc7345c91.ogg",
+    "https://truffled.lol/xwma/0000bfa4-7498352136143849.ogg",
+    "https://truffled.lol/xwma/0000c85a-fa672b3770f6a048.ogg",
+    "https://truffled.lol/xwma/0000c85a-a41241b6480ba6e6.ogg",
+    "https://truffled.lol/xwma/0000d110-20055a4fe25d2cc1.ogg",
+    "https://truffled.lol/xwma/0000bfa4-83e4f5dfe333fcba.ogg",
+    "https://truffled.lol/xwma/0000d110-593e975f57822b77.ogg",
+    "https://truffled.lol/xwma/0000d9c6-e56ff861ccf3693b.ogg",
+    "https://truffled.lol/xwma/0000d110-5ec9019f1f96cfb9.ogg",
+    "https://truffled.lol/xwma/0000d9c6-e9e30d5572a729d0.ogg",
+    "https://truffled.lol/xwma/0000e27c-1ba7221bb08089be.ogg",
+    "https://truffled.lol/xwma/0000d110-9e17cd025059b53e.ogg",
+    "https://truffled.lol/xwma/0000eb32-96d7dc9463262497.ogg",
+    "https://truffled.lol/xwma/0000e27c-3d92b6d80cf0ba22.ogg",
+    "https://truffled.lol/xwma/0000e27c-75820f611e2b03e5.ogg",
+    "https://truffled.lol/xwma/0000eb32-a1e86fa7f2e4ddaa.ogg",
+    "https://truffled.lol/xwma/0000f3e8-2d9c494d0c85dbe4.ogg",
+    "https://truffled.lol/xwma/0000f3e8-44148fc8b8a3c16f.ogg",
+    "https://truffled.lol/xwma/00011f76-465f22d6e7ae2972.ogg",
+    "https://truffled.lol/xwma/00010554-cd1a37d54ca0be9f.ogg",
+    "https://truffled.lol/xwma/00010e0a-9e79abd706d4b0f6.ogg",
+    "https://truffled.lol/xwma/0001282c-1a8012c0a03ac1b7.ogg",
+    "https://truffled.lol/xwma/0001282c-ebf0b7d9242be94d.ogg",
+    "https://truffled.lol/xwma/00017f48-f244e3c00550b61e.ogg",
+    "https://truffled.lol/xwma/0002b02a-8e3ab31c2d491409.ogg",
+    "https://truffled.lol/xwma/0001996a-368e6b61d1c1277e.ogg",
+    "https://truffled.lol/xwma/000187fe-4d792e3caf5a2b7b.ogg",
+    "https://truffled.lol/xwma/0002e46e-a977fe6735f0eb23.ogg",
+    "https://truffled.lol/xwma/index.txt",
+    "https://truffled.lol/xwma/00030ffc-3137d7fc29aa196b.ogg",
+    "https://truffled.lol/xwma/000332d4-11d4d4093b22a55a.ogg",
+    "https://truffled.lol/xwma/000389f0-a83d071d95cacc38.ogg",
+    "https://truffled.lol/xwma/000403e4-baf98e560816442f.ogg",
+    "https://truffled.lol/xwma/00041550-7e828ddc367252ad.ogg",
+    "https://truffled.lol/xwma/000463b6-1114d3db969f232b.ogg",
+    "https://truffled.lol/xwma/0004bad2-36260d760449a4d4.ogg",
+    "https://truffled.lol/xwma/00051aa4-e4f88ebbcecc3b34.ogg",
+    "https://truffled.lol/xwma/00053d7c-65dd68c18533174a.ogg",
+    "https://truffled.lol/xwma/0005579e-39e178fe5ca8eec3.ogg",
+    "https://truffled.lol/xwma/00058be2-1680f081daf69155.ogg",
+    "https://truffled.lol/xwma/0005c026-c05318cfe48e48aa.ogg",
+    "https://truffled.lol/xwma/0005d192-1af9d30ec04f2a87.ogg",
+    "https://truffled.lol/xwma/0005e2fe-f8ba8e18fd0d8fa4.ogg",
+    "https://truffled.lol/xwma/000605d6-0e22c41ce8b5a091.ogg",
+    "https://truffled.lol/xwma/000605d6-3f145afc54e4a015.ogg",
+    "https://truffled.lol/xwma/00065cf2-682cbc0f76a8d9b7.ogg",
+    "https://truffled.lol/xwma/00072e02-eb4995296aa4c49c.ogg",
+    "https://truffled.lol/xwma/000736b8-ede2109f823c5969.ogg",
+    "https://truffled.lol/xwma/000736b8-b2750f68fa74f29b.ogg",
+    "https://truffled.lol/xwma/000736b8-0cb94b70402d9e82.ogg",
+    "https://truffled.lol/xwma/00073f6e-03dcb0a7d52dad2d.ogg",
+    "https://truffled.lol/xwma/00083356-13e8856c6d4d945a.ogg",
+    "https://truffled.lol/xwma/000c1d18-3ff56f21b6c2f34e.ogg",
+    "https://truffled.lol/xwma/0008f2fa-db4e0af1d89a4229.ogg",
+    "https://truffled.lol/xwma/0008679a-772fa0ad130c113f.ogg",
+    "https://truffled.lol/xwma/000b4c08-57c896e9a783c812.ogg",
+    "https://truffled.lol/xwma/0009273e-be64a3fe882bf5e5.ogg",
+    "https://truffled.lol/xwma/000b0f0e-28426bd138540b13.ogg",
+    "https://truffled.lol/xwma/000c5a12-f06a16db38dcce2a.ogg",
+    "https://truffled.lol/xwma/000eb320-ff8e2c92c5ab5a4b.ogg",
+    "https://truffled.lol/xwma/00110378-582699cb9a7d72bb.ogg",
+    "https://truffled.lol/xwma/001339ae-c70622de901acd45.ogg",
+    "https://truffled.lol/xwma/000f35ca-f49af4c29af1da9f.ogg",
+    "https://truffled.lol/xwma/00112650-8edafa35d137de2b.ogg",
+    "https://truffled.lol/xwma/0013653c-e68184bd3f2a3b3a.ogg",
+    "https://truffled.lol/xwma/0014e484-31f51d06b67dbdf8.ogg",
+    "https://truffled.lol/xwma/001a4d8e-23236fb20670f0f4.ogg",
+    "https://truffled.lol/games/castle/datafile_C:/Users/bogon/.codex/visualizations/2026/10/18/01a14e36-2df1-7230-8c26-8bd246229b97/castle-controller-build/app.data",
+    "https://truffled.lol/images/module0.json"
+  ],
+  "failed": [
+    {
+      "url": "https://truffled.lol/xwma/000008b6-044b034e3ebcc06a.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-044b034e3ebcc06a.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-27dd57e332a5a111.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-27dd57e332a5a111.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-2be519c4d50923b3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-2be519c4d50923b3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-2eacd0a3c00639b5.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-2eacd0a3c00639b5.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-2d63dee02e9475df.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-2d63dee02e9475df.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-3d51b0af1fa0c3a7.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-3d51b0af1fa0c3a7.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-3712205496dc6574.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-3712205496dc6574.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-37c9ea20dc524143.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-37c9ea20dc524143.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-4fbc63f7d1e9fb2b.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-4fbc63f7d1e9fb2b.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-515df84943767094.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-515df84943767094.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-5bda60ebe0ec858c.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-5bda60ebe0ec858c.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-6077d2367a4f9ba6.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-6077d2367a4f9ba6.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-601edac918551a36.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-601edac918551a36.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-62804e373866493f.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-62804e373866493f.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-720c98410fd1e1ce.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-720c98410fd1e1ce.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-80c50e6eb7c3d363.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-80c50e6eb7c3d363.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-8af166ec8591fa72.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-8af166ec8591fa72.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-93487b7dbcc0322a.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-93487b7dbcc0322a.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-e8111199e1395eef.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-e8111199e1395eef.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-e7c0ebb723d765b0.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-e7c0ebb723d765b0.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000008b6-f3b3f7f4e3c3afde.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000008b6-f3b3f7f4e3c3afde.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-05056c882ada55bf.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-05056c882ada55bf.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-09c6ef1a86c3af29.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-09c6ef1a86c3af29.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-09f92ebd288171ae.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-09f92ebd288171ae.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-1b7ee236184254e4.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-1b7ee236184254e4.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-134a33a65b8bd7cb.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-134a33a65b8bd7cb.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-1f82bc72531c2d8e.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-1f82bc72531c2d8e.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-23e7ac84939aa2ea.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-23e7ac84939aa2ea.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-27872d17790eda33.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-27872d17790eda33.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-25ed77e4dea9f3ea.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-25ed77e4dea9f3ea.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-2c6656abefd5726f.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-2c6656abefd5726f.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-2a89921a306771be.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-2a89921a306771be.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-2ed265f4cf2499dc.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-2ed265f4cf2499dc.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-3f783fa54e3dea96.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-3f783fa54e3dea96.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-346ee8236cdd2125.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-346ee8236cdd2125.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-329d014b31bfd338.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-329d014b31bfd338.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-38463574c82d1bba.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-38463574c82d1bba.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-353451143e0dbcf7.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-353451143e0dbcf7.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-3be88f0a0b9080c5.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-3be88f0a0b9080c5.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-40925624e2fb6ab7.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-40925624e2fb6ab7.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-4215b01cb8b5d54a.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-4215b01cb8b5d54a.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-409f8b162cffcea2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-409f8b162cffcea2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-44b16ff2f8b2d074.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-44b16ff2f8b2d074.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-5146acad3fa5a6aa.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-5146acad3fa5a6aa.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-494a13394c88878f.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-494a13394c88878f.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-5371a41863098ab8.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-5371a41863098ab8.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-59d797a9a11b1ac0.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-59d797a9a11b1ac0.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-5ad9538e8d0df552.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-5ad9538e8d0df552.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-6090a19c4e6f27ed.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-6090a19c4e6f27ed.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-5465c0ba4878a5fd.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-5465c0ba4878a5fd.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-547a84d13ea94446.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-547a84d13ea94446.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-63da82d959214405.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-63da82d959214405.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-662cba2ed33067b7.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-662cba2ed33067b7.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-67be878cbc125571.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-67be878cbc125571.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-70f86a5fcc2eb140.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-70f86a5fcc2eb140.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-73c1c33e0949801b.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-73c1c33e0949801b.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-717c17a1e59074f0.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-717c17a1e59074f0.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-73cf2597d82c64aa.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-73cf2597d82c64aa.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-774a993ada875ef8.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-774a993ada875ef8.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-772a1a0bd3e73470.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-772a1a0bd3e73470.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-7b139f6895cf3525.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-7b139f6895cf3525.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-7ddf8158d866e675.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-7ddf8158d866e675.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-8715f1ca89d42135.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-8715f1ca89d42135.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-87250b2ff1341b16.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-87250b2ff1341b16.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-9e03c302cba5fc18.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-9e03c302cba5fc18.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-8a0239796a4eb96b.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-8a0239796a4eb96b.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-914fb994de5f34ac.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-914fb994de5f34ac.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-928c301ee0ec11fb.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-928c301ee0ec11fb.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-9fa94497b2ed4074.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-9fa94497b2ed4074.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-aab9d8dbeabcbaa0.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-aab9d8dbeabcbaa0.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-b312de6755504e0a.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-b312de6755504e0a.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-adea79ee2da99608.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-adea79ee2da99608.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-b357ef222491f417.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-b357ef222491f417.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-b559f666be9fd2f6.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-b559f666be9fd2f6.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-b6755c4f0ee9282d.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-b6755c4f0ee9282d.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-b88bbed9c4f275be.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-b88bbed9c4f275be.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-c375ba913cfbb854.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-c375ba913cfbb854.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-c6846fba527ae467.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-c6846fba527ae467.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-c6cb2964f80be5af.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-c6cb2964f80be5af.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-be1cefd6053d9aa1.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-be1cefd6053d9aa1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-c78184e100a85292.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-c78184e100a85292.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-c90aa94fffa67a09.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-c90aa94fffa67a09.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-ca56af804cf53f94.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-ca56af804cf53f94.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-cc46955c79c31c51.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-cc46955c79c31c51.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-d4a9165fef87095b.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-d4a9165fef87095b.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-cfeed915d6977df3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-cfeed915d6977df3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-cea3aeffde98738e.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-cea3aeffde98738e.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-d5a54637eab047a8.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-d5a54637eab047a8.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-d712bbf0ae3e692b.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-d712bbf0ae3e692b.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-dd93e32198ec79db.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-dd93e32198ec79db.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-e1e1a067fb1636dd.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-e1e1a067fb1636dd.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-d883dd560e4ead51.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-d883dd560e4ead51.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-e2366a9d1b89966e.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-e2366a9d1b89966e.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-e46a8c5294f5f38b.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-e46a8c5294f5f38b.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-e846808b2fad0ba1.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-e846808b2fad0ba1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-e6581931ba40d064.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-e6581931ba40d064.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-f0753ee7992a34bc.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-f0753ee7992a34bc.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-ef9f9e5bb82ea6fa.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-ef9f9e5bb82ea6fa.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-efe45a4af33676cb.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-efe45a4af33676cb.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-f0b8a1b86d6ceeec.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-f0b8a1b86d6ceeec.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-f78fb52ff9a6d7ce.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-f78fb52ff9a6d7ce.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-f1c28ee106df9168.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-f1c28ee106df9168.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-f498020d24af974e.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-f498020d24af974e.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-f8961dfcd74bc2e0.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-f8961dfcd74bc2e0.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/0000116c-f94caeecd0caa443.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/0000116c-f94caeecd0caa443.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-035b3e3ea45153d8.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-035b3e3ea45153d8.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-037eed663c07fb13.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-037eed663c07fb13.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-2e1fb19294b3e0ee.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-2e1fb19294b3e0ee.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-2610aeaa884acbac.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-2610aeaa884acbac.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-2e3c81de06c90323.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-2e3c81de06c90323.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-38075777b75eb981.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-38075777b75eb981.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-3dfdf52a6c91b7db.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-3dfdf52a6c91b7db.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-3fa9c7afda51d383.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-3fa9c7afda51d383.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-400737126ec56cc8.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-400737126ec56cc8.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-422dfb69e85b290b.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-422dfb69e85b290b.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-4151e112ad16af38.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-4151e112ad16af38.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-42fe777c019d85f6.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-42fe777c019d85f6.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-45c7ba4dac166b19.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-45c7ba4dac166b19.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-46ff071c52935cf6.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-46ff071c52935cf6.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-488dd0bbcf34a0df.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-488dd0bbcf34a0df.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-4a7f29606e3798e4.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-4a7f29606e3798e4.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-5a96b21568335ab2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-5a96b21568335ab2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-558814c6fc5ee200.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-558814c6fc5ee200.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-5f005c4e1b1be858.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-5f005c4e1b1be858.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-6a514f66bbec111d.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-6a514f66bbec111d.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-6ad872fc15b3ba6e.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-6ad872fc15b3ba6e.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-6c916a0e9dadd291.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-6c916a0e9dadd291.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-6e42f40bf2760dca.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-6e42f40bf2760dca.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-789d07beb1056b51.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-789d07beb1056b51.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-842aad0028b0fb44.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-842aad0028b0fb44.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-86ef821676624989.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-86ef821676624989.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-85b892a3fab2cdd3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-85b892a3fab2cdd3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-868d85afabb1ea1b.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-868d85afabb1ea1b.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-8778db759558c949.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-8778db759558c949.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-8c1a5d1c70e9e526.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-8c1a5d1c70e9e526.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-99a8a12da9592b74.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-99a8a12da9592b74.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-9f0d753659c5867c.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-9f0d753659c5867c.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-9bf825057f40c66d.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-9bf825057f40c66d.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-a62b86523a08ec6d.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-a62b86523a08ec6d.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-a77cac456c704ebe.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-a77cac456c704ebe.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-a731c0e2f897a8cf.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-a731c0e2f897a8cf.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-ae6a90eec100d96f.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-ae6a90eec100d96f.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-c3d194b5a0f8a84c.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-c3d194b5a0f8a84c.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-bc69d8ecbe5c442f.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-bc69d8ecbe5c442f.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-d0f6ef5a508e4306.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-d0f6ef5a508e4306.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-d2bb169891b0bd7d.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-d2bb169891b0bd7d.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-ca462293a0467614.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-ca462293a0467614.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-df9bdf59c19bad8e.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-df9bdf59c19bad8e.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-e06ce7f668dcd32a.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-e06ce7f668dcd32a.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-e119e6ffb7f31163.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-e119e6ffb7f31163.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-e2043787eb781667.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-e2043787eb781667.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-e7b12327af2135d3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-e7b12327af2135d3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-eb2ec3eca59a3151.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-eb2ec3eca59a3151.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-ef6a750ef5e5e815.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-ef6a750ef5e5e815.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-f7ac45e15b3ffbdc.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-f7ac45e15b3ffbdc.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-f27ce6274f8033c7.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-f27ce6274f8033c7.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/00001a22-f99ebc0a412c8f05.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/00001a22-f99ebc0a412c8f05.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-008f13cd3bb6fc78.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-008f13cd3bb6fc78.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-0aa7bccf8c5eddc3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-0aa7bccf8c5eddc3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-0d6082b84630c258.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-0d6082b84630c258.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-12e1b1bd6c9c7710.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-12e1b1bd6c9c7710.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-1919dad357eb43a9.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-1919dad357eb43a9.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-24646489343b2a45.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-24646489343b2a45.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-2b1902ee98fead26.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-2b1902ee98fead26.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-27ef950ff29a57fd.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-27ef950ff29a57fd.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-37a620f02ecdb366.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-37a620f02ecdb366.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-3c897b595ed8c4fb.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-3c897b595ed8c4fb.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-4f8f24da0556b66a.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-4f8f24da0556b66a.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-4f524a0219267903.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-4f524a0219267903.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-57f45404cb708da5.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-57f45404cb708da5.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-4daae014cbe0b0f5.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-4daae014cbe0b0f5.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-5e31e12fa5b3b1b8.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-5e31e12fa5b3b1b8.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-6569c29766daf0a1.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-6569c29766daf0a1.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-6a45ecc48af574a0.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-6a45ecc48af574a0.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-650fe99ee6851510.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-650fe99ee6851510.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-654398d8c6bb1505.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-654398d8c6bb1505.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-6a382dd45ef29827.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-6a382dd45ef29827.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-6f816da5f06f128a.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-6f816da5f06f128a.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-72c51d10c95cb26f.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-72c51d10c95cb26f.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-7365d7c82cb005af.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-7365d7c82cb005af.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-807ba84c85208a9c.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-807ba84c85208a9c.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-7f36c00b3716fb38.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-7f36c00b3716fb38.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-7f88677a937e1988.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-7f88677a937e1988.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-89cccf2abe75a5ca.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-89cccf2abe75a5ca.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-8e4b6916fc97bef7.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-8e4b6916fc97bef7.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-8cfcd6e59b5e5f67.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-8cfcd6e59b5e5f67.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-8e58cf76a1e8f4e2.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-8e58cf76a1e8f4e2.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-a8ac26df2909e570.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-a8ac26df2909e570.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-af25bd985fe3cfa3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-af25bd985fe3cfa3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-ba642bf3ac9232e9.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-ba642bf3ac9232e9.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-b87d36f825258288.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-b87d36f825258288.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-bababbe49375b11f.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-bababbe49375b11f.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-c5d49a97b09e30ca.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-c5d49a97b09e30ca.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-c705e1c80de435d3.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-c705e1c80de435d3.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-bda0dbb58704df44.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-bda0dbb58704df44.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-cd69cce0205afa2c.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-cd69cce0205afa2c.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-d2c6c895cdf1a56b.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-d2c6c895cdf1a56b.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-d718a6738eb4a47d.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-d718a6738eb4a47d.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-e5945745a8b87e51.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-e5945745a8b87e51.ogg",
+      "status": 404
+    },
+    {
+      "url": "https://truffled.lol/xwma/000022d8-e1422565934dca40.ogg",
+      "error": "HTTP 404 for https://truffled.lol/xwma/000022d8-e1422565934dca40.ogg",
+      "status": 404
+    }
+  ],
+  "mirroredAt": "2026-10-30T12:51:57.072Z",
+  "verifiedAt": "2026-11-16T14:13:30.439Z",
+  "verification": {
+    "external": 0,
+    "blocking": 0,
+    "ignoredExternal": 0,
+    "local404": 0,
+    "expected404": 0,
+    "failures": 0,
+    "title": "Castle Crashers",
+    "crossOriginIsolated": true,
+    "sharedArrayBuffer": "function",
+    "canvas": {
+      "width": 1280,
+      "height": 720
+    },
+    "nonBlack": 4096,
+    "screenshotNonBlack": null,
+    "rendered": true
+  }
+}
